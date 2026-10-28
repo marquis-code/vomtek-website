@@ -1,0 +1,21 @@
+{
+  "name": "Vomtek \u2014 Engineered Control Systems",
+  "short_name": "Vomtek",
+  "description": "Control systems, electrical manufacturing, and field service from Houston, Texas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#004b2b",
+  "theme_color": "#004b2b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
